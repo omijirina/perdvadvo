@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://perdvadvo.vercel.app/"
 languageCode = "en"
 title = "Perdvadvo"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+34918826440"
 email = "makalom@email.com"
 location = "Madrid, Spain"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://perdvadvo.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
